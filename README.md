@@ -1,9 +1,9 @@
 <h2> Olá, meu nome é Bruno Costa C. 😁</h2> 
 
 <div>      
-  <p>Sou um desenvolvedor Full-Stack Jr e Designer Gráfico na Agência Celebrare.  
+  <p>Sou um desenvolvedor Full-Stack Jr e Designer Gráfico.  
     
-  Eu tenho conhecimento em programação web, de games e de bem básica em aplicativos, também possuo habilidades em animação com Cinema 4D e 3ds Max, edição de vídeo, desenhos, web design e design gráfico. O que me permite ter uma visão mais ampla e criativa.</p>
+  Eu tenho conhecimento em programação web, de games e de bem básica em aplicativos, também possuo habilidades em animação com Cinema 4D e 3ds Max, desenhos, web design e design gráfico. O que me permite ter uma visão mais ampla e criativa.</p>
 </div>
   
 <div>
@@ -30,15 +30,4 @@
     <a href="http://linkedin.com/in/brunocostac" target="_blank"><img style="width: 45px; height: 45px;" src="./Images/ICON/Linkedin.svg" target="_blank"></a>  
     <a href="https://www.behance.net/ibrunoc/" target="_blank"><img style="width: 45px; height: 45px;" src="./Images/ICON/Behance.svg" target="_blank"></a>      
     <a href="https://www.brunoc.dev/"><img style="width: 45px; height: 45px;" src="./Images/ICON/Website.svg" target="_blank"></a>
-</div>
-
-<div>
-<h2>Status no GitHub:</h2> 
-  
-<div align="left">
-       
-   | ![](https://github-readme-stats.vercel.app/api?username=ibrunoc&show_icons=true&theme=transparent&hide_border=true&card_width=470px ) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunoc&layout=compact&theme=transparent&hide_border=true&card_width=470px&langs_count=8)](https://github.com/ibrunoc/github-readme-stats) |
-  | :-: | :-: |
-  
-</div>
 </div>
